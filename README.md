@@ -1,14 +1,14 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/4b9d002468c047938d5ac0464b2705c9)](https://www.codacy.com/gh/K-Terelak/RickAndMortyCompose/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=K-Terelak/RickAndMortyCompose&amp;utm_campaign=Badge_Grade)
 # RickAndMortyCompose
 
-
-### Tech stack
+## Tech stack
 * Jetpack compose
 * Hilt
 * Retrofit and OkHttp
 * navigation
 * paging
 
-### Screenshots
+## Screenshots
 | Light Theme | Dark Theme |
 | ------------ | -----------|
 | <img src="https://user-images.githubusercontent.com/78376240/128515069-35b23785-b1cf-49c1-b923-b691de01c46b.png" height="500"> | <img src="https://user-images.githubusercontent.com/78376240/128515030-d32e6c91-1310-4905-bda2-e129e1fd2898.png" height="500"> |
