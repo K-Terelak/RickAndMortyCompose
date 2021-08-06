@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RickAndMortyCompose</string>
+    <string name="something_went_wrong">Something went wrong.</string>
+    <string name="error_image">Error image</string>
+    <string name="refresh">refresh</string>
+    <string name="gender">Gender:</string>
+    <string name="species">Species:</string>
+    <string name="type">Type:</string>
+    <string name="location">Location:</string>
+    <string name="origin_name">Origin name:</string>
+    <string name="unknown">unknown</string>
+    <string name="character_image">Character image.</string>
+    <string name="status">Status</string>
+</resources>
