@@ -1,5 +1,7 @@
 # RickAndMortyCompose
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/87dc35ba5e5e4254a6c960aea38de446)](https://app.codacy.com/gh/K-Terelak/RickAndMortyCompose?utm_source=github.com&utm_medium=referral&utm_content=K-Terelak/RickAndMortyCompose&utm_campaign=Badge_Grade_Settings)
+
 
 ### Tech stack
 * Jetpack compose
